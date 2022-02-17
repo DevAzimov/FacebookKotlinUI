@@ -31,16 +31,20 @@ class MainActivity : AppCompatActivity() {
     fun getAllFeeds(): ArrayList<Feed> {
         val stories: ArrayList<Story> = ArrayList()
         stories.add(Story(R.drawable.muslim_3, "Muslim"))
-        stories.add(Story(R.drawable.muslim_3, "Muslim"))
-        stories.add(Story(R.drawable.muslim_3, "Muslim"))
-        stories.add(Story(R.drawable.muslim_3, "Muslim"))
+        stories.add(Story(R.drawable.muslim_1, "Muslim"))
+        stories.add(Story(R.drawable.muslim_2, "Muslim"))
+        stories.add(Story(R.drawable.muslim_5, "Muslim"))
+        stories.add(Story(R.drawable.muslim_4, "Muslim"))
+        stories.add(Story(R.drawable.muslim_6, "Muslim"))
         val feeds: ArrayList<Feed> = ArrayList()
         feeds.add(Feed())
         feeds.add(Feed(stories))
         feeds.add(Feed(Post(R.drawable.muslim_3, "Muslim", R.drawable.masjid_3)))
-        feeds.add(Feed(Post(R.drawable.muslim_3, "Muslim", R.drawable.masjid_3)))
-        feeds.add(Feed(Post(R.drawable.muslim_3, "Muslim", R.drawable.masjid_3)))
-        feeds.add(Feed(Post(R.drawable.muslim_3, "Muslim", R.drawable.masjid_3)))
+        feeds.add(Feed(Post(R.drawable.muslim_1, "Muslim", R.drawable.masjid)))
+        feeds.add(Feed(Post(R.drawable.muslim_2, "Muslim", R.drawable.masjid_2)))
+        feeds.add(Feed(Post(R.drawable.muslim_5, "Muslim", R.drawable.masjid_4)))
+        feeds.add(Feed(Post(R.drawable.muslim_4, "Muslim", R.drawable.masjid_5)))
+        feeds.add(Feed(Post(R.drawable.muslim_6, "Muslim", R.drawable.kaba)))
         return feeds
     }
 }

@@ -68,12 +68,12 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_live" />
+                    android:src="@drawable/ic_photo" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
-                    android:text="Live"
+                    android:text="Photo"
                     android:textColor="#000000"
                     android:textSize="14sp"
                     android:textStyle="bold"/>
@@ -95,12 +95,12 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/ic_live" />
+                    android:src="@drawable/ic_room" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="5dp"
-                    android:text="Live"
+                    android:text="Room"
                     android:textColor="#000000"
                     android:textSize="14sp"
                     android:textStyle="bold"/>
