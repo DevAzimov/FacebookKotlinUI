@@ -3,12 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/button_border_circle.xml" value="0.1585" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/ic_live.xml" value="0.1585" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/shape_border_circle_blue.xml" value="0.1585" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/shape_border_rounded.xml" value="0.1625" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/shape_border_rounded_enable.xml" value="0.1585" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/shape_border_rounded_stoke.xml" value="0.1585" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/shape_border_stroke.xml" value="0.1585" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/drawable/shape_corenrs_create_story.xml" value="0.1585" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/activity_create_post.xml" value="0.24375" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/activity_main.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/item_add_story.xml" value="0.14356884057971014" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/item_feed_head.xml" value="0.2" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/item_feed_link_post.xml" value="0.14356884057971014" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/item_feed_post.xml" value="0.24375" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/item_feed_story.xml" value="0.25" />
         <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/item_story_view.xml" value="0.24375" />
+        <entry key="..\:/Users/aesho/AndroidStudioProjects/FacebookKotlinUI/app/src/main/res/layout/item_update_profile.xml" value="0.11806256306760847" />
       </map>
     </option>
   </component>

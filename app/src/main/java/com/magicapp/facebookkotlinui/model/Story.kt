@@ -1,4 +1,6 @@
 package com.magicapp.facebookkotlinui.model
 
-class Story(var profile: Int, var fullname: String) {
-}
+data class Story(
+    var profile: Int,
+    var fullName: String
+)

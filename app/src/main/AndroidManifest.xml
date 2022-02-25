@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FacebookKotlinUI">
         <activity
+            android:name=".actyivity.CreatePostActivity"
+            android:exported="false" />
+        <activity
             android:name=".actyivity.MainActivity"
             android:exported="true">
             <intent-filter>

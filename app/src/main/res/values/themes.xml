@@ -19,4 +19,14 @@
     <style name="rounded_corner">
         <item name="cornerSize">15%</item>
     </style>
+    <style name="rounded_top_corner">
+        <item name="cornerSizeTopLeft">10dp</item>
+        <item name="cornerSizeTopRight">10dp</item>
+    </style>
+    <style name="rounded_corner_create">
+        <item name="cornerSizeTopRight">10dp</item>
+        <item name="cornerSizeTopLeft">10dp</item>
+    </style>
+
+    <dimen name="corner_radius">125dp</dimen>
 </resources>
